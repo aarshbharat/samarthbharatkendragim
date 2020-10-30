@@ -19,6 +19,7 @@ p{
     width: 100%;
     margin: 0%; 
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Yatra One', cursive;
 }
 .sticky {
     position: fixed;
@@ -115,6 +116,7 @@ p{
     font-family: 'Sura', serif;
     text-align: justify;
     border-radius: 0;
+    align-items: center;
 }
 .about_us_img_2{
     align-items: center;
@@ -122,4 +124,172 @@ p{
     margin: 0;
     border-radius: 600px;
     border: 15px solid #DE4313;
+}
+.about_us_logo_img{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 350px;
+    border: 20px solid #DE4313;
+}
+.last_p_about_us{
+    font-family: 'Modak', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: #ac4b1c;
+}
+.about_us_title_font{
+    font-family: 'Sura', serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 80px; 
+}
+.about_us_card_2{
+    font-family: 'Sura', serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    color: #ac4b1c;
+}
+.card_2_img{
+    
+    width: 50%;
+    height: 90%;
+    border: 20px solid #DE4313;
+    border-radius: 50%;
+}
+.card_3_img{
+    width: 50%;
+    height: 90%;
+    border: 20px solid #DE4313;
+    border-radius: 50%;
+}
+.about_us_card_3{
+    font-family: 'Sura', serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    color: #ac4b1c;
+}
+.card_3_para{
+    font-size: 35px;
+}
+.cards_title{
+    text-align: center;
+    font-size: 50px;
+}
+.vidyabharati_logo_about_us{
+    width: 50%;
+    height: 70%;
+    border: 10px solid #DE4313;
+    border-radius: 50%;
+}
+.samarthbharat_logo_about_us{
+    width: 50%;
+    height: 70%;
+    border: 10px solid #DE4313;
+    border-radius: 50%;
+}
+.para_btw_logo{
+    color: #150485;
+    font-size: 35px;
+}
+.card_last_about_us{
+    border: 0px;
+    border-radius: 0px;
+}
+.submenu_page_title{
+    width: 100%;
+    font-size: 50px;
+    background-color: #f0a500;
+}
+.panchkarm_font{
+    font-family: 'Sura', serif;
+    font-weight: bolder;
+    text-align: left; 
+}
+.panchkarm_img{
+    border: 10px solid #DE4313;
+    align-items: center;
+
+}
+.panchkarm_cards_img{
+    width: 400px;
+    height: 300px;
+    border:10px solid #ac4b1c;
+    border-radius: 30%;
+    margin-bottom: 10px;
+    margin-top: 0%;
+}
+.panchkarm_card_font{
+    font-family: 'Laila', serif;
+    text-align: center;
+    font-size: 45px;   
+    color: #150485;
+}
+.card_last_panchkarm{
+    background-color: #ffffff;
+    border: 0px;
+}
+.sanskarprakriya_card{
+    border: 0px;
+    border-radius: 0%;
+    font-family: 'Sura', serif;
+    text-align: left; 
+}
+.first_3_para_sanskar{
+    font-size: 35px;
+    text-align: justify;
+}
+.row_2_para_sanskar{
+    background-color: #DE4313;
+    border-radius: 50px;
+    border: 10px solid #DE4313;
+    color: #ffffff;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 35px;
+    /*margin-top: auto;*/
+    margin-bottom: auto;
+    padding-top: auto;
+}
+.yagya_img{
+    width: 60%;
+    height: 60%;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card_solah_sanskar_list_header{
+    background-color: #f0a500;
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.solah_sanskar_img{
+    height: 60%;
+    border: 20px solid #150485;
+    align-items: center;
+
+}
+.card_solah_sanskar{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.card-img{
+    align-items: center;
+}
+.card_body_solah_sanskar{
+    align-items: center;
+}
+.last_para_sanskar{
+    font-family: 'Sura', serif;
+    font-size: 35px;
+    text-align: justify;
+}
+.sanskar_img_2{
+    border:10px solid #ac4b1c;
 }

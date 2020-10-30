@@ -13,11 +13,14 @@
         <link href="https://fonts.googleapis.com/css2?family=Gotu&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Modak&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Sura&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Sura:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Yatra+One&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
     </head>
 <body> 
 <div class="jumbotron jumbotron-fluid" style="background-color:#fca652; margin:0; padding:5px">
-<img src="src\img\logo.jpg" width="100" height="100" class="logo2"><br>
+<img src="src\img\logo_gujarati.png" width="100" height="100" class="logo2"><br>
   <div class="container" style="padding=0;">
     <h1 class="display-4" style="color:#ffff;">समर्थ भारत <br>गर्भ विज्ञान एवं गर्भ संस्करण केंद्र</h1>
     <p class="lead">वोर्ड-७/सी, गुरुकुल मार्ग, गांधीधाम</p>

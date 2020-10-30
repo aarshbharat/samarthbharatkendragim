@@ -11,7 +11,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">मुखपृष्ठ</a>
+        <a class="nav-link" href="index.php">मुखपृष्ठ</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="aboutus.php">केंद्र को समझे</a>
@@ -24,9 +24,9 @@
           उपलब्ध सुविधाएं
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">पंचकर्म</a>
-          <a class="dropdown-item" href="#">प्रवृत्ति वर्ग (गर्भवती के लिए)</a>
-          <a class="dropdown-item" href="#">सोलह संस्कार</a>
+          <a class="dropdown-item" href="panchkarm.php">पंचकर्म विधि</a>
+          <a class="dropdown-item" href="activityclass.php">प्रवृत्ति वर्ग (गर्भवती के लिए)</a>
+          <a class="dropdown-item" href="sanskarprakriya.php">संस्कार प्रक्रिया</a>
           <a class="dropdown-item" href="#">पुस्तकालय</a>
         </div>
       </li>
