@@ -23,6 +23,7 @@
 <img src="src\img\logo_gujarati.png" width="100" height="100" class="logo2"><br>
   <div class="container" style="padding=0;">
     <h1 class="display-4" style="color:#ffff;">समर्थ भारत <br>गर्भ विज्ञान एवं गर्भ संस्करण केंद्र</h1>
-    <p class="lead">वोर्ड-७/सी, गुरुकुल मार्ग, गांधीधाम</p>
+    <p class="lead">गांधीधाम</p>
   </div>
 </div>
+

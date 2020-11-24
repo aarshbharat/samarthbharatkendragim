@@ -1,7 +1,7 @@
-<div class="card card_footer">
+<div class="card card_footer ">
   <div class="card-body row">
 
-      <div class="col-6" style="font-family: 'Arya', sans-serif;">
+      <div class="col-6" style="font-family: 'Arya', sans-serif;color:#ffff; text-align:center">
           <h5 class="">संपर्क सूत्र:</h5>
           <p>
             समर्थ भारत गर्भविज्ञान एवं गर्भ संस्करण केंद्र <br>
@@ -14,19 +14,29 @@
       </div>
 
       <div class="col-6">
-        <h5 class="">Location</h5>
+        <h5 class="" style="color:#ffff;">Location</h5>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d862.7143053174646!2d70.11668538287087!3d23.070800551648453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76b55d9cfa97da00!2sSamarth%20Bharat%20Garbhvigyan%20Evam%20Garbh%20Sanskaran%20Kendra!5e1!3m2!1sen!2sin!4v1603256814632!5m2!1sen!2sin" 
             width="400" height="300" frameborder="1" style="border:1;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
       </div>
 
   </div>
-  <div class="badge badge-primary" style="background-color: rgba(0, 0, 0, 0.2); font-family: 'Arya', sans-serif;">
+  <div class="badge badge-primary" style="background-color: #ac4b1c; font-family: 'Arya', sans-serif;">
     <a class="text-white" href="https://mdbootstrap.com/">&copy समर्थ भारत गर्भ विज्ञान एवं गर्भ संस्करण केंद्र - गांधीधाम</a>
   </div>
 </div>
       
+<!-- Load font awesome icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-      
+<!-- The social media icon bar -->
+<div class="icon-bar">
+  <a href="https://www.facebook.com/samarthbharatgandhidham/" class="facebook"><i class="fa fa-facebook"></i></a>
+  <a href="https://twitter.com/SamarthBharat_G" class="twitter"><i class="fa fa-twitter"></i></a>
+  <a href="https://www.instagram.com/samarthbharat_gandhidham/" class="instagram"><i class="fa fa-instagram"></i></a>
+  <a href="https://www.youtube.com/channel/UCbYErOfQwjb79UVpq5tOcYw" class="youtube"><i class="fa fa-youtube"></i></a>
+</div>
+
+
   
 
 </footer>

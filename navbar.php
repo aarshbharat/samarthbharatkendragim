@@ -17,7 +17,7 @@
         <a class="nav-link" href="aboutus.php">केंद्र को समझे</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">कार्यक्रम</a>
+        <a class="nav-link" href="team.php">हमारे कार्यकर्ता</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -27,7 +27,6 @@
           <a class="dropdown-item" href="panchkarm.php">पंचकर्म विधि</a>
           <a class="dropdown-item" href="activityclass.php">प्रवृत्ति वर्ग (गर्भवती के लिए)</a>
           <a class="dropdown-item" href="sanskarprakriya.php">संस्कार प्रक्रिया</a>
-          <a class="dropdown-item" href="#">पुस्तकालय</a>
         </div>
       </li>
     </ul>

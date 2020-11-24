@@ -20,7 +20,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title">दीपन पाचन</h2>
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                              पाचन के लिए औषधि ग्रहण|
                         </p>
                     </div>
@@ -29,7 +29,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title">स्नेहपान</h2>
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                         दो तीन चम्मच से प्रारंभ करके आधा किलो तक गाय का उत्तम गुणयुक्त घी एक सप्ताह
                         तक लेना |
                         </p>
@@ -39,7 +39,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title">विरेचन</h2>
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                             आयुर्वेदिक औषधियों के उबाल से शरीर के प्रत्येक तंत्र की सफाई |
                         </p>
                     </div>
@@ -55,7 +55,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title">अभ्यंग</h2>
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                              तीन या पांच दिन तक औषधियुक्त तेल से समग्र शरीर की मालिश
                         </p>
                     </div>
@@ -64,7 +64,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title">स्वेदन</h2>
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                             औषधियुक्त पानी से बाष्प लेना (स्टीम-बाथ)
                         </p>
                     </div>
@@ -73,7 +73,7 @@
                 <div class="card">
                     <div class="card-body">
                         
-                        <p class="card-text">
+                        <p class="card-text panchkarm_card_text">
                             स्त्री और पुरुष का पंचकर्म होने के पश्चात भी स्त्री के गर्भाशय को ठीक करने के लिए उत्तर बस्ती और पुरुष को शुक्राणु वर्धक औषधि दी
                             जाती है | दोनों का पूर्ण रूप से शुध्धिकरण होने के बाद ही गर्भाधान के लिए अनुमति दी जाती है | 
                         </p>
