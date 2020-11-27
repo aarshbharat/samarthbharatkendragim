@@ -410,7 +410,7 @@ p{
     top: 25%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+   transform: translateY(-50%);
   }
   
   /* Style the icon bar links */
@@ -446,4 +446,16 @@ p{
   .youtube {
     background: #bb0000;
     color: white;
+  }
+  .form_field_card{
+      align-items: center;
+      text-align: center;
+      font-family: 'Arya', sans-serif;
+  }
+  .admin_signup_card{
+      border: 0px;
+  }
+  .button_in_center{
+      align-items: center;
+      text-align: center;
   }

@@ -17,6 +17,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Yatra+One&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
+        
     </head>
 <body> 
 <div class="jumbotron jumbotron-fluid" style="background-color:#fca652; margin:0; padding:5px">

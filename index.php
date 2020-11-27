@@ -52,7 +52,7 @@
             मार्गदर्शन प्राप्त करने हेतु आज ही हमसे जुड़े.....<br>
             To get full-fladge guidance Join-us Today....  
         </p>
-        <a href="#" class="btn btn-primary">Join-us (हमारे साथ जुड़े)</a>
+        <a href="joinus.php" class="btn btn-primary">Join-us (हमारे साथ जुड़े)</a>
     </div>
 </div>
 
